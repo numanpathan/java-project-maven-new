@@ -252,8 +252,8 @@
                 <img src="./assets/img/card 8.webp" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Doraemon</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
-                    <button class="watchlist-btn">add to watchlist</button>
+                    <h6 class="des">Lorem ipsum hello sit consectetur elit.</h6>
+                    <button class="watchlist-btn">add no watchlist</button>
                 </div>
             </div>
             <div class="card">
